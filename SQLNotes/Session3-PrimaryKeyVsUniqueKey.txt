@@ -166,7 +166,9 @@ age INT
 );
 
 
+insert into employee values (1, 'kapil', 'Sharma', 20);
 
+insert into employee values (null, 'kapil', 'Sharma', 20);
 
 
 
