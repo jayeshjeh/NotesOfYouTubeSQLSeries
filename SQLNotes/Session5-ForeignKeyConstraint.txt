@@ -27,7 +27,7 @@ UNIQUE KEY(student_email)
 
 
 
-insert into student(student_fname,student_lname,student_email,sudent_phone,years_of_exp,student_company,batch_date,source_of_joining,location) values('rohit','sharma','rohit@gmail.com','9191919191',6,'walmart','05-02-2021','linkedin','bangalore');
+insert into students(student_fname,student_lname,student_email,sudent_phone,years_of_exp,student_company,batch_date,source_of_joining,location) values('rohit','sharma','rohit@gmail.com','9191919191',6,'walmart','05-02-2021','linkedin','bangalore');
 
 insert into students(student_fname,student_lname,student_email,sudent_phone,years_of_exp,student_company,batch_date,source_of_joining,location) values('virat','kohli','virat@gmail.com','9292929292',3,'flipkart','05-02-2021','linkedin','hyderabad');
 
