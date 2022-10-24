@@ -30,6 +30,12 @@ location varchar(20) NOT NULL DEFAULT 'BANGLORE',
 PRIMARY KEY(id)
 );
 
+insert into employee(id, firstname, lastname, age, salary) values (1, 'rajesh', 'sharma', 28, 10000);
+
+insert into employee(id, firstname, lastname, age, salary) values (2, 'kapil', 'sharma', 30, 20000);
+
+insert into employee(id, firstname, lastname, age, salary) values (3, 'mahesh', 'sharma', 32, 30000);
+
 
 Select
 ===================
